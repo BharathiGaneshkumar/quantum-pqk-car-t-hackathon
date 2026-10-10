@@ -1,0 +1,13 @@
+This project builds on material by IBM and the University of Washington:
+
+- UW–IBM Quantum Machine Learning Hackathon prompt and "Start From Here"
+  starter notebook, created by Sophy Shin; reviewed by Meltem Tolunay,
+  Olivia Lanes, Alexandre Choquette. Copyright IBM Corp., 2026.
+  Licensed under the Apache License, Version 2.0.
+- IBM Qiskit "Projected Quantum Kernels" tutorial and CAR T-cell dataset
+  (Qiskit documentation repository).
+
+The files in resources/ are the original, unmodified IBM/UW materials.
+The notebook in notebooks/ reproduces IBM's starter cells unchanged and
+adds our own analysis after them; it has been altered from the original
+and is marked as such, per the Apache 2.0 license.

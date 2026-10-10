@@ -1,0 +1,11 @@
+qiskit[visualization]
+qiskit-ibm-runtime
+category-encoders==2.8.1
+numpy==2.3.2
+pandas==2.3.2
+scikit-learn
+tqdm==4.67.1
+scipy
+matplotlib
+ipykernel
+python-dotenv

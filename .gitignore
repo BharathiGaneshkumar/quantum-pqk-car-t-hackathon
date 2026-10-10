@@ -1,0 +1,16 @@
+# environments and secrets
+qpqk-env/
+.venv/
+.env
+
+# downloaded data (IBM's cell re-downloads it)
+data_tutorial/
+
+# python / jupyter noise
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
